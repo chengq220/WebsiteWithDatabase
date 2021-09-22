@@ -1,0 +1,17 @@
+.feedLook{
+	border:1px solid black;
+	width: 40%;
+	text-align: center;
+	margin: 20px;
+	position: relative;
+	left: 28%;
+	top: 50%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 20px;
+}
+
+.user{
+	font-size: 15px;
+	font-weight: bold;
+}
